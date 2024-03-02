@@ -1,0 +1,13 @@
+.login {
+    &-page {
+        background-color: #dedede;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &-card {
+        width: 400px;
+    }
+}
